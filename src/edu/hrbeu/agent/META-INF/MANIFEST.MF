@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Agent-Class: edu.hrbeu.agent.PreMainAddTimeStatAgent
+Premain-Class: edu.hrbeu.agent.PreMainAddTimeStatAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+

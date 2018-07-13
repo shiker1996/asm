@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jat">
+    <output-path>$PROJECT_DIR$/out/artifacts/jat</output-path>
+    <root id="archive" name="jat.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/edu/hrbeu/agent/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

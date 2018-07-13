@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="asm-all-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/asm-all-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/cglib-2.1.95.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/org.objectweb.asm-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
